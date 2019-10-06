@@ -8,6 +8,7 @@
 - [bubz](https://github.com/debubz)
 - [Akshat Khandelwal](https://github.com/ak127a)
 - [Po-Ying Fu](https://github.com/AmberFu)
+-[Yashaswini S](https://github.com/yashu98)
 - [Franco Colman](https://github.com/colmanfranco)
 - [Siddharth Mishra](https://github.com/Hard-Coder05)
 - [Sukrit Walia](https://github.com/wukrit)
